@@ -1,0 +1,2 @@
+# this directory contains the test and training datasets in order to evaluate for KolektorSSD2 connect to wani.1946707@studenti.uniroma1.it or halili.1956856@studenti.uniroma1.it ,
+# it is also publically available dataset "https://go.vicos.si/kolektorsdd2"
